@@ -78,9 +78,7 @@ a, a:hover, a:focus {
     display: flex;
     align-items: stretch;
     perspective: 1500px;
-	position:fixed;
-	top:0px;
-	left:0px;
+	
 }
 
 #sidebar {
@@ -90,6 +88,9 @@ a, a:hover, a:focus {
     color: white;
     transition: all 0.6s cubic-bezier(0.945, 0.020, 0.270, 0.665);
     transform-origin: bottom left;
+	position:fixed;
+	top:0px;
+	left:0px;
     
 }
 
