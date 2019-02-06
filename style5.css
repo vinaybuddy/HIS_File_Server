@@ -78,9 +78,7 @@ a, a:hover, a:focus {
     display: flex;
     align-items: stretch;
     perspective: 1500px;
-	position:fixed;
-	top:0px;
-	left:0px;
+	
 	
 }
 
